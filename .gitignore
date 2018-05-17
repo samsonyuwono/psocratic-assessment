@@ -1,0 +1,6 @@
+.vagrant
+**/.classpath
+**/.project
+**/target/
+**/workbench.xmi
+**/workspace/
